@@ -1,0 +1,19 @@
+
+"#view2" : {
+  borderColor:"red",
+  top:"15%",
+  width:"100%",
+  height:"80%",
+  backgroundColor:"white",
+}
+
+"#btnImagen":{
+    width:"20%",
+    height:"10%",
+    top:"4%",
+    backgroundColor:"orange",
+    title:"Imagen",
+    borderRadius:5,
+    borderColor:"yellow",
+    borderWidth:1
+}

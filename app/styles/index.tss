@@ -1,0 +1,53 @@
+".container": {
+	backgroundColor:"white",
+	layout:"vertical"
+}
+
+"#vista":{
+	height:"50%",
+	width:"50%",
+	borderColor:"blue",
+	top:'6%',
+	backgroundColor:"white",
+	borderRadius:2,
+	layout:"vertical",
+	left:'25%'
+}
+
+"#view2":{
+	height:"20%",
+	top:'20%',
+	layout:"vertical"
+}
+
+"#btnJson":{
+	top:"5%",
+	width:"30%",
+	height:"6%",
+	title:"ver JSON",
+	backgroundColor:"orange",
+	color:"white",
+	borderWidth:1,
+	borderColor:"black",
+	borderRadius:5,
+	left:"40%"
+}
+
+"#btnSiguiente":{
+	width:"40%",
+	height:"30%",
+	title:"siguiente",
+	backgroundColor:"orange",
+	color:"white",
+	borderWidth:1,
+	borderColor:"black",
+	borderRadius:5,
+	left:"35%"
+}
+
+"#scrollView":{
+	layout:"vertical",
+	showVerticalScrollIndicator:"true", 
+	showHorizontalScrollIndicator:"true"
+}
+

@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container">
+		<Button id="btnJson" onClick="Ver"></Button>
+		  <View id="vista">	
+		     <ScrollView id="scrollView">
+	
+	     	 </ScrollView>
+		  </View>	
+		  <View id="view2">
+		     <Button id="btnSiguiente" ></Button>
+		  </View>
+	</Window>
+</Alloy>
+
