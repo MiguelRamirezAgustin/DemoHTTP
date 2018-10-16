@@ -1,6 +1,6 @@
 <Alloy>
 	<Window>
-	    <Button id="btnImagen" onclick="ViewImagens"></Button>
+	    <Button id="btnImagen" onClick="ViewImagens"></Button>
 		<View id="view2">
 		</View>
 	</Window>
